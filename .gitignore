@@ -1,0 +1,15 @@
+**/__pycache__/
+**/local/
+*.pyc
+*.ipynb_checkpoints
+**/data/
+**/img_local/
+**/snapshots/
+**/export/
+**/model.tar.gz
+.idea/
+**/.idea/
+**/tmp/
+**/.neptune/
+**/raw_data/
+raw_data/
